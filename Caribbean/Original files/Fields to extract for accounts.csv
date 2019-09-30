@@ -1,0 +1,21 @@
+Account ID,Id,ID
+Account Name,Name,STRING
+Account Type,Type,PICKLIST
+Street,BillingStreet,TEXTAREA
+City,BillingCity,STRING
+State/Province,BillingState,STRING
+Zip/Postal Code,BillingPostalCode,STRING
+Country,BillingCountry,STRING
+Account Phone,Phone,PHONE
+Website,Website,URL
+Account Description,Description,TEXTAREA
+LFM ID,ACRNM__c,STRING
+Abbreviation,Abbreviation__c,STRING
+Institution Sub-type,Institution_Sub_type__c,PICKLIST
+Institution Type,Institution_Type__c,PICKLIST
+# Opportunities,Opportunities__c,DOUBLE
+Relationship with the bank,Relationship_with_the_bank__c,MULTIPICKLIST
+Public or Private Sector,Public_Private_Sector__c,PICKLIST
+Validation Status,AI_Validation_Status__c,PICKLIST
+Validated Account,Validated_Account__c,STRING
+,,
